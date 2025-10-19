@@ -211,3 +211,5 @@ The secp256k1 and libzmq package above are maintained using the same [Visual Stu
 This change is properly accomplished by disabling the "NuGet Dependencies" in the Visual Studio properties user interface and then importing `secp256k1.import.props`, which references `secp256k1.import.xml` and `libzmq.import.props`, which references `libzmq.import.xml`.
 
 See [boost documentation](http://www.boost.org/doc/libs/1_57_0/more/getting_started/windows.html) for building boost libraries for Visual C++.
+
+<!-- Auto-update: 2025-10-19T12:13:41.302463 -->
