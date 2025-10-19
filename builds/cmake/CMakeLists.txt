@@ -973,3 +973,5 @@ install( TARGETS ${CANONICAL_LIB_NAME}
 install( DIRECTORY "../../include/bitcoin"
     DESTINATION include )
 
+
+# Update: 2025-10-19
